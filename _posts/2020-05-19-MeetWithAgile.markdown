@@ -4,7 +4,7 @@ title:  "Agile ile nasıl tanıştım!"
 date:   2020-05-19 11:51:46 +0300
 categories: jekyll update
 ---
-Agile ile nasıl tanıştım;
+Agile ile nasıl tanıştım;[blogspot yazım](https://ugurmelihsurme.blogspot.com/)
 
 2009 yılında bir emniyet kritik bir yazılım projesi kapsamında kurulan yazılım ekibinde göreve başladığım zamanlarda proje ve sistem mühendisliği seviyesinde waterfall bir yaklaşım uygulandığını, yazılım seviyesinde “proof of consept” prototiplerin demoları ile müşteriye projenin ilerleyişi ile ilgili olarak bilgi verildiğini gözlemlemekteydim. O zaman kullanılan süreç artırımsal yazılım yaşam döngüsüydü. Bu döngü belli konfigürasyon parçalarının belirli bir artırımda tamamlanması felsefesi üzerine kurgulanıyordu. Ve genellik savunma sanayii projelerinde artırımsal yöntem tercih edilmekteydi. (Aslında bu yöntemin de scrum, lean veya kanban gibi iteratif bir yazılım yaşam döngüsü olduğunu belirtmekte fayda bulunuyor.)
 
