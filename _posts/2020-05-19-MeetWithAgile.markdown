@@ -4,6 +4,15 @@ title:  "Agile ile nasıl tanıştım!"
 date:   2020-05-19 11:51:46 +0300
 categories: jekyll update
 ---
+
+<style>
+p {
+    text-align:justify;  
+	  text-justify:auto;
+
+}
+</style>
+
 Agile ile nasıl tanıştım;[blogspot yazım](https://ugurmelihsurme.blogspot.com/)
 
 2009 yılında bir emniyet kritik yazılım projesi kapsamında kurulan yazılım ekibinde göreve başladığım zamanlarda proje ve sistem mühendisliği seviyesinde waterfall bir yaklaşım uygulandığını, yazılım seviyesinde “proof of consept” prototiplerin demoları ile müşteriye projenin ilerleyişi ile ilgili olarak bilgi verildiğini gözlemlemekteydim. O zaman kullanılan süreç artırımsal yazılım yaşam döngüsüydü. Bu döngü belli konfigürasyon parçalarının belirli bir artırımda tamamlanması felsefesi üzerine kurgulanıyordu. Ve genellik savunma sanayii projelerinde artırımsal yöntem tercih edilmekteydi. (Aslında bu yöntemin de scrum, lean veya kanban gibi iteratif bir yazılım yaşam döngüsü olduğunu belirtmekte fayda bulunuyor.)
@@ -35,4 +44,3 @@ Sizi izlemesini beklediğiniz diğerlerine bir model olabilmelisiniz. Çevikliğ
 Yeni pratikler keşfemeye çalışmalı ve bu pratikleri günlük faaliyetlerinize yansıtmaya çalışmalısınız.Ayak üstü 15 dk geçmeyen toplantılar yapmak veya çatışma durumlarının çözümü üzerine uygulanabilecek yaklaşımlar geliştirmek örnek olabilir. Dinlemeyi ve konuşmayı ve ekiple birlikte olmayı öğrenmelisiniz.En iyisi doğru soruları (çok önemli,ne yapmaları gerektiğini söylemek çözüm olamyacaktır) doğru zamanda sormaya çalışmalı ve İnsanlara sunduğunuz aynı şefkat ve desteği kendinize de uzatmalısınız, kendinize  de doğru soruları sorun,yani koçluk yapmalısınız.
 
 Agile ile ilgili tecrübe ettiğim süreçlerin ve olayların bir kısmını, çok önemli olduğuna inandıklarımı ve hatırlayabildiklerimi aktarmaya çalıştım.
-

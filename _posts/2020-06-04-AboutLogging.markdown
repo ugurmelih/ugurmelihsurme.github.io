@@ -9,7 +9,13 @@ toc: false
 
 ---
 
+<style>
+p {
+    text-align:justify;  
+	  text-justify:auto;
 
+}
+</style>
 <h1>BU NE LOG?</h1>
 
 
