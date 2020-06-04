@@ -4,7 +4,7 @@ title:  "Loglama Hakkında!"
 date:   2020-06-04 10:18:46 +0300
 categories: jekyll update
 tags: logging java c++ json elasticsearch jira
-excerpt: deneme
+excerpt: logging
 toc: false
 
 ---
