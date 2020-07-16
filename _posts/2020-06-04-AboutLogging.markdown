@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Loglama Hakkında!"
+title:  "Loglama Sanatı!"
 date:   2020-06-04 10:18:46 +0300
 categories: jekyll update
 tags: logging java c++ json elasticsearch jira
