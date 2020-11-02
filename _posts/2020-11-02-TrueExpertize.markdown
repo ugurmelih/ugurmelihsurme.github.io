@@ -16,6 +16,25 @@ p {
 
 }
 </style>
-<h1>Sevdiğim Sözler</h1>
+<h1>Conceptual Approach</h1>
 
-1) Fool with a tool is still a fool.
+CI (Continous Integration)
+TDD (Test Driven Development)
+DDD (Domain Driven Design)
+
+
+Design and programming skills :
+### Design and programming skills :
+Java,
+Mongodb
+
+
+### Good understanding of principles of good design such as:
+###
+
+- separation of concerns**,
+- composition over inheritance,
+- encapsulate what varies,
+- don't repeat yourself,
+- do only one thing and do it well (unix philosophy)
+- Functional programming knowledge(?)
