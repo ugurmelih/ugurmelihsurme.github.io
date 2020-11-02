@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "True Expertize"
+title:  "True Expertize (on going...)"
 date:   2020-11-02 14:57:46 +0300
 categories: jekyll update
 tags: software enginering
