@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sevdiğim Sözler!"
-date:   2020-07-09 20:25:46 +0300
+title:  "True Expertize"
+date:   2020-11-02 14:57:46 +0300
 categories: jekyll update
 tags: software enginering
 excerpt: word
