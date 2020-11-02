@@ -23,7 +23,6 @@ TDD (Test Driven Development)
 DDD (Domain Driven Design)
 
 
-Design and programming skills :
 ### Design and programming skills :
 Java,
 Mongodb
