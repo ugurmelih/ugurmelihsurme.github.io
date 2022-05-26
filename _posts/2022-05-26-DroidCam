@@ -1,0 +1,15 @@
+https://www.dev47apps.com/droidcam/linux/ 
+
+Above of link, before following step; 
+{For v4l2loopback-dc,
+1. Install these packages: linux-headers-`uname -r` gcc make.}
+
+you should install v4l2loopback. (System is Fedora 35)
+
+$sudo  dnf install v4l2loopback
+
+then below step should applied..
+
+<pre>droidcam]$ sudo ./install-video </pre> 
+
+Good luck..
