@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Loglama Hakkında!"
+title:  "Loglama Sanatı!"
 date:   2020-06-04 10:18:46 +0300
 categories: jekyll update
 tags: logging java c++ json elasticsearch jira
@@ -16,7 +16,7 @@ p {
 
 }
 </style>
-<h1>BU NE LOG?</h1>
+<h1>Loglama Sanatı?</h1>
 
 
 Üniversiteden mezun olduktan sonra irili ufaklı pek çok projede çalıştım.Temel mühendislik yaklaşımı; bir problem var yani gereksinimler listesi, bunu bir tasarım yaklaşımı ile çözüyorsunuz.İşin doğası gereği geliştirdiğiniz üründe genellikle hatalar bunlunabiliyor.Bu hataları tasarım ya da kodlama aşamasında yakalamaya çalışyorsunuz. “debug” ederek kodlama aşamasının ilk başlarında pek çok hatayı yakalabiliryorsunuz ama kod büyüdükçe işler biraz daha karmaşık hale gelebiliyor.Hele büyük bir ekip içierisinde çalışıyorsanız diğer kişilerin geliştirdiği koddaki hataları yakalamak iyice zorlaşıyor. Bu durum karşında sistematik şekilde ortak kullanılan bir loglama yaklaşımı ile uygulamanın yaşantısını izlemek gerekiyor.
